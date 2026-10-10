@@ -1,1 +1,7 @@
-# gwc-10-3-2026
+#activity
+
+
+name = "___"
+age = "___"
+color = "___"
+print(name, "is", age, "years old and loves", color)
